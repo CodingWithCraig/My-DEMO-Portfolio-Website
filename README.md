@@ -9,4 +9,16 @@ Continuation...
 Continuation...
 
 <img width="1298" height="706" alt="image" src="https://github.com/user-attachments/assets/13da059a-a085-4de5-9fb1-6f9b3bb846fd" />
-# More Updates Coming.
+#Updated page
+
+<img width="1292" height="719" alt="image" src="https://github.com/user-attachments/assets/43dc6a53-c767-44c9-8555-46e0e08d5453" />
+continuation...
+<img width="1295" height="716" alt="image" src="https://github.com/user-attachments/assets/3fb5fe33-e14e-468b-9298-e33dab565d54" />
+continuation...
+<img width="1290" height="715" alt="image" src="https://github.com/user-attachments/assets/12cda4f0-7533-46ac-ab21-534508938d08" />
+Continuation...
+<img width="1289" height="712" alt="image" src="https://github.com/user-attachments/assets/a32cffdb-00e4-4fc4-aea2-cfe10d2c09fe" />
+#More updates coming
+
+
+
