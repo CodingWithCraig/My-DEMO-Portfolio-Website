@@ -125,7 +125,7 @@ th:hover, td:hover{
 
 }
 #myself {
-   font-size: 1rem;
+   font-size: 1.15rem;
     font-style: normal;
     /* font-family: "copperplate", fantasy; */
     font-family: Monaco, Consolas, "Lucida Console", monospace;
@@ -271,7 +271,7 @@ th:hover, td:hover{
  #logo {
     width:16%;
     height: auto;
-    float: left;
+    margin-left: 42%;
     opacity: 0;
     animation: fadeIn 2s forwards;
     /* animation-delay: 1s; */
