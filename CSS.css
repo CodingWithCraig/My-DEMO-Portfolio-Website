@@ -4,7 +4,7 @@
     border-color: cadetblue;
     /* margin-left: 40%; */
     text-align: center;
-    font-size: 45px;
+    font-size:3rem;
     background-color: rgb(167, 129, 167);
     color: rgb(0, 0, 0);
     /* font-style:  ; */
@@ -54,7 +54,7 @@ body {
     padding: 12px 16px;
     text-decoration:wavy;
 
-    font-size: 18px;
+    font-size: 1.2rem;
      text-align: left;
      border-style: solid;
       text-align: center;
@@ -125,7 +125,7 @@ th:hover, td:hover{
 
 }
 #myself {
-   
+   font-size: 1rem;
     font-style: normal;
     /* font-family: "copperplate", fantasy; */
     font-family: Monaco, Consolas, "Lucida Console", monospace;
@@ -163,7 +163,7 @@ th:hover, td:hover{
 
 
 #myself2 {
-    font-size: 18px;
+    font-size: 1.3rem;
     font-style: normal;
     color: rgb(0, 248, 207);
     border: none;
@@ -182,7 +182,7 @@ th:hover, td:hover{
     background-color: yellow;
     color: black;
     padding: 10px;
-    font-size: 19px;
+    font-size: 1.1rem;
     font-weight: bold;
     border: none;
     cursor: pointer;
@@ -205,7 +205,7 @@ th:hover, td:hover{
     padding: 12px 16px;
     text-decoration:wavy;
 
-    font-size: 18px;
+    font-size: 1.12rem;
      text-align: left;
       text-align: center;
       justify-content: left;
@@ -221,12 +221,12 @@ th:hover, td:hover{
 }
 
 #youtubePath, #youtubePath a {
-    font-size: 20px;
+    font-size: 1.1rem;
     font-style: normal;
     text-decoration: none;
 }
 #githublink, #githublink a {
-    font-size: 20px;
+    font-size: 1.1rem;
     font-style: normal;
     text-decoration: none;
 }
@@ -235,7 +235,7 @@ th:hover, td:hover{
     border-color: black;
 } */
  #linkedinlink, #linkedinlink a {
-    font-size: 20px;
+    font-size: 1.1rem;
     font-style: normal;
     text-decoration: none;
 
