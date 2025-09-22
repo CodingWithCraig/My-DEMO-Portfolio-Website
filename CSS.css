@@ -49,6 +49,10 @@ body {
      /* margin-left: 10%; */
 
 }
+table {
+    width: 50%;
+    height: auto;
+}
 .tech-skills a , th, td{
     color: rgb(255, 249, 249);
     padding: 12px 16px;
@@ -314,3 +318,4 @@ th:hover, td:hover{
     width: 100%;
     
  }
+
