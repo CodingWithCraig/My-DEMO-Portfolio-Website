@@ -178,6 +178,8 @@ th:hover, td:hover{
     animation: fadeIn 2s forwards;
 }
 
+
+
 #softskills {
     background-color: yellow;
     color: black;
@@ -267,7 +269,7 @@ th:hover, td:hover{
     padding: 0;
  }
  #logo {
-    width:9.9%;
+    width:16%;
     height: auto;
     float: left;
     opacity: 0;
