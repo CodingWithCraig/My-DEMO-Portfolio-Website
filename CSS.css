@@ -76,10 +76,6 @@ th:hover, td:hover{
 
 }
 
-.dropdown {
-    /* text-align: center; */
-}
-
 .dropdown:hover .tech-skills {
     display:contents;
 }
@@ -218,15 +214,13 @@ th:hover, td:hover{
      
 }
 
-#dropdown-skills {
-    /* text-align: center; */
-}
+
 
 #dropdown-skills:hover #skills-list {
     display: block;
 }
 
-#youtubelink, #youtubelink a {
+#youtubePath, #youtubePath a {
     font-size: 20px;
     font-style: normal;
     text-decoration: none;
