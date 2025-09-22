@@ -15,7 +15,7 @@ body {
 
     /* background-image: url("https://th.bing.com/th/id/OIP.UZ2aLpcljeYBRbymFBs0XgHaDt?w=321&h=175&c=7&r=0&o=7&pid=1.7&rm=3"); */
     color: white;
-     background: linear-gradient(-45deg, #311c29, #222141, #28362d, #0a0a07);
+     background: linear-gradient(-45deg, #003d03, #000000, #005307, #004e0d);
   background-size: 400% 400%;
   animation: gradientShift 10s ease infinite;
 }
@@ -81,7 +81,7 @@ th:hover, td:hover{
 }
 
 .dropdown:hover .tech-skills {
-    display:contents;
+    display:inline-table;
 }
 
 /* video {
@@ -121,6 +121,7 @@ th:hover, td:hover{
 
 #welcome {
     border-style: outset;
+    border-radius: 5%;
     width:100%;
     text-align: center;
     border-color: darkred;
@@ -129,12 +130,10 @@ th:hover, td:hover{
 
 }
 #myself {
-   font-size: 1.15rem;
+   font-size: 1rem;
     font-style: normal;
     /* font-family: "copperplate", fantasy; */
     font-family: Monaco, Consolas, "Lucida Console", monospace;
-    opacity: 0;
-    animation: fadeIn 2s forwards;
     text-align: center;
     
 }
@@ -177,9 +176,8 @@ th:hover, td:hover{
     display:flex;
     flex-direction: column;
     justify-content: center;
-    z-index: 1;
-    opacity: 0;
-    animation: fadeIn 2s forwards;
+    
+  
 }
 
 
@@ -236,6 +234,9 @@ th:hover, td:hover{
     font-style: normal;
     text-decoration: none;
 }
+/* #github {
+    margin-right: 50%;
+} */
 /* head {
     font-style: italic;
     border-color: black;
@@ -273,19 +274,21 @@ th:hover, td:hover{
     padding: 0;
  }
  #logo {
-    width:16%;
+    position:absolute;
+    padding-top: 20%;
+    width:15%;
     height: auto;
     margin-left: 42%;
     opacity: 0;
-    animation: fadeIn 2s forwards;
+    animation: fadeInOut 5s infinite;
     /* animation-delay: 1s; */
     
     border-radius: 100px;
     }
-    @keyframes fadeIn {
-        to {
-            opacity: 1;
-        }
+    @keyframes fadeInOut {
+    0% {opacity: 0;}
+    50% {opacity: 0.4;}
+    100% {opacity: 0;}
     }
  
 
@@ -318,5 +321,4 @@ th:hover, td:hover{
     width: 100%;
     
  }
-
 
