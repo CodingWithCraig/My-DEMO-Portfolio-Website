@@ -50,7 +50,7 @@ body {
 
 }
 table {
-    width: 50%;
+    width: 42%;
     height: auto;
 }
 .tech-skills a , th, td{
@@ -318,4 +318,5 @@ th:hover, td:hover{
     width: 100%;
     
  }
+
 
