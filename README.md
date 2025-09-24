@@ -1,6 +1,10 @@
-# My-Portfolio-Website
+# My-DEMO-Portfolio-Website
 A responsive and animated portfolio site showcasing my journey as a Computer Science student at Eduvos Midrand. It visually represent my progress in my learning journey. Built with HTML, and CSS, this site is a living document of my learning, resilience, and commitment to mastering both theory and real-world application.
 Note: First website I've ever made and will do my best to improve modify it more&more as i continue to gain more knowledge and skills in my learning journey.
+
+Check it out: https://craigportfolio123.netlify.app/
+
+
 <img width="1301" height="711" alt="image" src="https://github.com/user-attachments/assets/59b3b76c-aa2e-42e3-8021-3ae80ca4a797" />
 Continuation....
 <img width="1304" height="704" alt="image" src="https://github.com/user-attachments/assets/9bd02b9a-b321-40f7-9b81-923599f84d66" />
